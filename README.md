@@ -183,11 +183,14 @@ print(f"ROI with WhatsApp reminders: EUR {results['net_roi']:,.2f}/year")
 
 ## Related Resources
 
-- [What is a no-show? Definition and impact](https://synaptica-solution.com/knowledge/cos-e-no-show-significato/) — Complete guide to no-shows in healthcare
-- [How to reduce no-shows in medical practices](https://synaptica-solution.com/knowledge/come-ridurre-no-show/) — Evidence-based strategies
-- [ClinicFlow](https://synaptica-solution.com/clinicflow/) — WhatsApp reminder system that reduces no-shows by 38-63%
-- [Case study: -38% no-shows in a polyclinic](https://synaptica-solution.com/case-study/clinicflow/) — Real results from 12-doctor practice
-- [Best WhatsApp chatbots for medical practices 2026](https://synaptica-solution.com/knowledge/migliori-chatbot-whatsapp-studi-medici/) — Comparison guide
+Maintained by **[Synaptica Solution](https://synaptica-solution.com)**, Italian software studio for SME automation.
+
+| If you need… | See… |
+|---|---|
+| Automated no-show reduction for medical practices | [ClinicFlow](https://synaptica-solution.com/clinicflow/) |
+| Guide: no-show significato e come ridurlo | [No-Show: Significato](https://synaptica-solution.com/knowledge/cos-e-no-show-significato/) |
+| WhatsApp reminders for medical appointments | [Guida riduzione no-show](https://synaptica-solution.com/guida-riduzione-no-show-studi-medici/) |
+| All open source tools | [Open Source Hub](https://synaptica-solution.com/open-source/) |
 
 ---
 
